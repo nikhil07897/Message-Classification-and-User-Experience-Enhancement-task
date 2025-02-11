@@ -1,6 +1,4 @@
-Here’s an updated **README.md** file highlighting the use of synthetic data and other aspects of your project:
 
-```markdown
 # 📧 Message Classification & User Experience Enhancement
 
 This repository showcases a Python-based project that uses **synthetic data** 📊 to classify and simulate actions for various types of messages. It's designed to enhance user interactions by automating responses based on message types. 🚀
